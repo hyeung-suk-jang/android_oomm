@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "987714014456",
+    "firebase_url": "https://androidchatting-70e01.firebaseio.com",
+    "project_id": "androidchatting-70e01",
+    "storage_bucket": "androidchatting-70e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987714014456:android:9889dedfaff9684a",
+        "android_client_info": {
+          "package_name": "chatting.azanghs.com.androidchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987714014456-dl7q7ekbmtp7ro4l081bdlp5evd5q4cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOM1vJ_pS0MnoYfg0zzZAQntGrS0qmjwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987714014456-dl7q7ekbmtp7ro4l081bdlp5evd5q4cs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987714014456-96lifu3maemg4c1fj88mtrbjt1of5en5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.tana.oomm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987714014456:android:4b7f9cc2e722c605",
+        "android_client_info": {
+          "package_name": "kr.tana.oomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987714014456-dl7q7ekbmtp7ro4l081bdlp5evd5q4cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOM1vJ_pS0MnoYfg0zzZAQntGrS0qmjwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987714014456-dl7q7ekbmtp7ro4l081bdlp5evd5q4cs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987714014456-96lifu3maemg4c1fj88mtrbjt1of5en5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.tana.oomm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

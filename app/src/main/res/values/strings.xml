@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OOMM</string>
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="com.crashlytics.useFirebaseAppId">true</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2693317190767532/5134680215</string>
+    <!--
+    real : ca-app-pub-2693317190767532/5134680215
+    test : ca-app-pub-3940256099942544/6300978111
+    -->
+</resources>
